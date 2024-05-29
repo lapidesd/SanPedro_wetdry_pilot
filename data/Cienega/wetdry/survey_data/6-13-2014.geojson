@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:ESRI::102649" } },
+"features": [
+{ "type": "Feature", "properties": { "ReachName": null, "Length": 279, "Notes": "no frogs, lots of veg, no fish seen" }, "geometry": { "type": "LineString", "coordinates": [ [ 1084151.255491408985108, 379022.98191805917304 ], [ 1084168.5, 379029.125 ], [ 1084224.125, 379044.15625 ], [ 1084265.125, 379046.0625 ], [ 1084350.375, 379033.4375 ], [ 1084401.5, 379010.78125 ], [ 1084418.822701616212726, 379000.311017573578283 ] ] } },
+{ "type": "Feature", "properties": { "ReachName": null, "Length": 281, "Notes": "thick with watercress, fish 1 in, small frogs" }, "geometry": { "type": "LineString", "coordinates": [ [ 1093936.468930987641215, 373216.038437355018687 ], [ 1094213.973287825938314, 373262.799882643797901 ] ] } },
+{ "type": "Feature", "properties": { "ReachName": null, "Length": 115, "Notes": "Gila topminnow" }, "geometry": { "type": "LineString", "coordinates": [ [ 1094250.296382054686546, 373268.920580721634906 ], [ 1094354.25, 373286.4375 ], [ 1094361.62232061708346, 373280.689820407773368 ] ] } },
+{ "type": "Feature", "properties": { "ReachName": null, "Length": 3747, "Notes": "Glide with many up to 2-4 in, Gila topminnow, chub" }, "geometry": { "type": "LineString", "coordinates": [ [ 1098435.893319043098018, 371449.007038401148748 ], [ 1098528.375, 371407.5 ], [ 1099200.5, 370964.90625 ], [ 1100152.75, 370825.46875 ], [ 1100324.875, 370761.09375 ], [ 1100584.625, 370647.59375 ], [ 1100868.0, 370676.03125 ], [ 1101069.0, 370578.4375 ], [ 1101194.125, 370580.125 ], [ 1101343.375, 370648.6875 ], [ 1101582.375, 370868.375 ], [ 1101781.125, 370987.625 ], [ 1101835.699550596997142, 371004.751391693134792 ] ] } },
+{ "type": "Feature", "properties": { "ReachName": null, "Length": 95, "Notes": "100s of frogs, bear tracks, 1000s of fish" }, "geometry": { "type": "LineString", "coordinates": [ [ 1109800.174096831120551, 365751.309294986596797 ], [ 1109817.25, 365751.1875 ], [ 1109890.747052436461672, 365724.036527020856738 ] ] } }
+]
+}
